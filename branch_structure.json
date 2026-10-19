@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security-update-nextjs-deps-20261019"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security-update-nextjs-deps-20261019": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security-update-nextjs-deps-20261019"
+  ]
+}
